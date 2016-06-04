@@ -1,0 +1,2 @@
+# goodideas
+Some good ideas
